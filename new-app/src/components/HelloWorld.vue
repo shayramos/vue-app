@@ -1,3 +1,5 @@
+<!-- Todos os ficheiros dentro de /components são importados por outros componentes -->
+
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
